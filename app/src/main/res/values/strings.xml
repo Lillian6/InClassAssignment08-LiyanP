@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Practice1</string>
+    <string name="key">Type Key Here</string>
+    <string name="Value">Type Value Here</string>
+    <string name="key_text">Key!</string>
+    <string name="value_text">Value!</string>
+    <string name="write_to_cloud">Write to Cloud</string>
+    <string name="read_from_cloud">Read From Cloud</string>
+</resources>
